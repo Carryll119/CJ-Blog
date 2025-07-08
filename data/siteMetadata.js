@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'CJ永續筆記',
-  author: 'CJ',
-  headerTitle: 'CJ永續筆記',
+  title: 'Carry All Greenotes｜凱羅永續筆記',
+  author: 'Carryll Chan',
+  headerTitle: 'Carry All Greenotes｜凱羅永續筆記',
   description: '梳理永續轉型中的變化，理解它如何影響我們的選擇與生活',
   language: 'zh-TW',
   theme: 'system', // system, dark or light
