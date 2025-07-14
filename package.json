@@ -10,7 +10,7 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky",
-    "generate:tags": "ts-node scripts/generate-tag-data.ts"
+    "generate:tags": "node scripts/generate-tag-data.mjs"
   },
   "dependencies": {
     "@headlessui/react": "2.2.0",
